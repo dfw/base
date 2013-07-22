@@ -1,6 +1,6 @@
 # Base
 
-*My base SCSS file*
+### My base SCSS file
 
 I've been using some form of a base CSS file for a while now. In a main CSS file, I typically import [normalize.css](https://github.com/necolas/normalize.css/), then import a base file. I've found that normalize.css is great for HTML5, form elements and certain typographic nuances.
 
