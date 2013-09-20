@@ -167,6 +167,11 @@ img {
 abbr {
 	font-variant: small-caps;
 }
+.group:after {
+	content: "";
+	display: table;
+	clear: both;
+}
 
 /* ==========================================================================
    Media Queries
