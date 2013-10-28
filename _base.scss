@@ -160,9 +160,10 @@ a:hover {
 	color: $link-hover-color;
 }
 img {
-	/* For responsive images */
-	display:block;
-	max-width:100%;
+	/* Responsive images */
+	display: block;
+	height: auto;
+	max-width: 100%;
 }
 abbr {
 	font-variant: small-caps;
